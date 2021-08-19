@@ -10,7 +10,7 @@ Upload a file and print URL to console:
 Upload two files, print URLs to console and append to out.txt:   
 `catbox_ul_x64.exe G:\1.bin G:\2.bin -o out.txt`
 
-You can use the -w flag to wipe the output text file before writing to it instead of appending.
+You can use the -w flag to wipe the output text file before writing to it.
 ```
 Usage: catbox_ul_x64.exe [--outpath OUTPATH] [--wipe] PATHS [PATHS ...]
 
