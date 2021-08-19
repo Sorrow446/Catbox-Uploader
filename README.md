@@ -4,8 +4,6 @@ CLI catbox.moe uploader written in Go.
 [Windows, Linux, macOS and Android binaries](https://github.com/Sorrow446/Catbox-Uploader/releases)
 
 # Usage
-Args take priority over the config file.
-
 Upload a file and print URL to console:   
 `catbox_ul_x64.exe G:\1.bin`
 
